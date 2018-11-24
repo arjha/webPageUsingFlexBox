@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79" height="34" viewBox="0 0 79 34">
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <ellipse cx="3.49" cy="3.58" fill="#FF2558" rx="3.49" ry="3.58" transform="rotate(90 15.644 15.868)"/>
+            <ellipse cx="1.551" cy="1.591" fill="#424666" rx="1.551" ry="1.591" transform="rotate(90 6.695 22.43)"/>
+            <ellipse cx="3.49" cy="3.58" fill="#FF2558" rx="3.49" ry="3.58" transform="rotate(90 9.678 9.902)"/>
+            <ellipse cx="3.49" cy="3.58" fill="#FF2558" rx="3.49" ry="3.58" transform="rotate(90 3.086 16.494)"/>
+            <ellipse cx="3.49" cy="3.58" fill="#FF2558" rx="3.49" ry="3.58" transform="rotate(90 3.712 3.936)"/>
+            <ellipse cx="1.551" cy="1.591" fill="#424666" rx="1.551" ry="1.591" transform="rotate(90 -5.237 10.498)"/>
+            <ellipse cx="3.49" cy="3.58" fill="#FF2558" rx="3.49" ry="3.58" transform="rotate(90 -3.506 23.086)"/>
+        </g>
+        <text fill="#FFF" font-family="MerriweatherSans-Bold, Merriweather Sans" font-size="16" font-weight="bold" letter-spacing="-.436" transform="translate(-3 -1)">
+            <tspan x="49.232" y="23.5">Test</tspan>
+        </text>
+    </g>
+</svg>

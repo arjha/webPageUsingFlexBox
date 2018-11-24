@@ -1,0 +1,11 @@
+<svg width="268" height="99" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" opacity="0.2" d="m240,89c0,5.523 -4.477,10 -10,10l-220,0c-5.523,0 -10,-4.477 -10,-10l0,-79c0,-5.523 4.477,-10 10,-10l220,0c5.523,0 10,4.477 10,10l0,38.875l0,40.125z" fill-rule="evenodd" fill="#FFF"/>
+ </g>
+</svg>

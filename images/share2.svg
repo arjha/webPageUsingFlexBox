@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+    <g fill="none" fill-rule="nonzero">
+        <circle cx="22.653" cy="22.347" r="21.847" fill="#FF2558" opacity=".1"/>
+        <circle cx="22.653" cy="22.347" r="17.347" fill="#FF2558" opacity=".2"/>
+        <circle cx="22.653" cy="22.347" r="13.347" fill="#FF2558"/>
+        <path fill="#FFF" d="M26.774 15.889h-7.381c-.812 0-1.469.646-1.469 1.435l-.007 11.482 5.166-2.153 5.167 2.153V17.324c0-.79-.664-1.435-1.476-1.435zm-.246 10.333l-3.445-1.444-3.444 1.444v-8.61h6.889v8.61z"/>
+    </g>
+</svg>
